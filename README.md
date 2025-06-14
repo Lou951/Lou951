@@ -31,14 +31,20 @@ Since then I have wanted to develop my passion for the JavaScript language and h
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" width="60" height="60"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60"/>  
 </div>
 <br>
 
 <div align="center"><strong>Feel free to connect with me:</strong></div>
-
-<div align="center"><a href="https://www.linkedin.com/in/lou951/" rel="nofollow">
-  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin-Lou" height="30" width="40" style="max-width: 100%;"></a></div>
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/lou951/" rel="nofollow">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin-Lou" width="60" height="60" >
+  </a>
+  <a href="https://lou-951.netlify.app/">
+    <img src="https://res.cloudinary.com/de4yia9u4/image/upload/v1749928938/portfolio.logo_xqdtxm.png" width="60" height="60"/>
+  </a>
+</div>
 
 
 
